@@ -1,4 +1,4 @@
-import ReorderIcon from '@material-ui/icons/Reorder';
+;
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import Logo from "../assets/pizza1234.jpg";
@@ -25,7 +25,7 @@ function Navbar() {
         <Link to="/about"> About </Link>
         <Link to="/contact"> Contact </Link>
         <button onClick={toggleNavbar}>
-          <ReorderIcon />
+          
         </button>
       </div>
     </div>
