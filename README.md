@@ -10,4 +10,4 @@ This is a basic website for a pizza shop, developed using HTML, CSS, JavaScript,
 - React
 - RapidAPI
 
-Website: 
+Website: https://jolly-taiyaki-27ce2f.netlify.app/
